@@ -138,3 +138,133 @@
     </div>
 </body>
 </html>
+
+
+
+
+----- css
+
+h2 {
+    color: white;
+    background-color: #551A8B;
+   
+    padding: 10px solid ; 
+  }
+
+
+
+
+body {
+    font-family: sans-serif;
+    background-color:aqua;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #551A8B;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+#cart-icon {
+    font-size: 24px;
+    background: transparent;
+    border: none;
+    color:black;
+    cursor: pointer;
+}
+
+section {
+    padding: 20px;
+}
+
+.product {
+    color:white;
+    padding: 10px;
+    margin: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: #551A8B;;
+    display: inline-block;
+    vertical-align: top;
+}
+
+button {
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+
+----- js
+
+h2 {
+    color: white;
+    background-color: #551A8B;
+   
+    padding: 10px solid ; 
+  }
+
+
+
+
+body {
+    font-family: sans-serif;
+    background-color:aqua;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #551A8B;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+#cart-icon {
+    font-size: 24px;
+    background: transparent;
+    border: none;
+    color:black;
+    cursor: pointer;
+}
+
+section {
+    padding: 20px;
+}
+
+.product {
+    color:white;
+    padding: 10px;
+    margin: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: #551A8B;;
+    display: inline-block;
+    vertical-align: top;
+}
+
+button {
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+}
+
+.hidden {
+    display: none;
+}
